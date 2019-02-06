@@ -13,7 +13,7 @@ namespace OOP_Introduction
     public Student()
     {
       studentNumber = "U1234";
-      lastName = "Doe";
+      lastName = "Dedhe";
     }
 
     /// <summary>
